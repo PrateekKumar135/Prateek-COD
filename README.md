@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRATEEK KUMAR</h1>
-<h3 align="center">A passionate Data Scientist and AI enthusiast.</h3>
+<h3 align="center">DATA SCIENTIST | DATA ANALYST | DATA ENGINEER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateekkumar135&label=Profile%20views&color=0e75b6&style=flat" alt="prateekkumar135" /> </p>
 
@@ -9,13 +9,15 @@
 
 - 🌱 I’m currently learning Deep Learning, Computer Vision, GEN-AI **TENSORFLOW, OPENCV, PYTORCH**
 
+- 📄 Know about my experiences [https://docs.google.com/document/d/1CgY2TSGpqEZ9hsjl-yY3NyR8KjTq3emG/edit?usp=sharing&ouid=103057304888634722560&rtpof=true&sd=true](https://docs.google.com/document/d/1CgY2TSGpqEZ9hsjl-yY3NyR8KjTq3emG/edit?usp=sharing&ouid=103057304888634722560&rtpof=true&sd=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/theuniquepk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theuniquepk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/pkumar135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/pkumar135" height="30" width="40" /></a>
 <a href="https://kaggle.com/prateek1135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prateek1135" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/pk8895821135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/pk8895821135" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/pk_ml_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/pk_ml_/" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,13 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateekkumar135&show_icons=true&locale=en" alt="prateekkumar135" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekkumar135&" alt="prateekkumar135" /></p>
--Earned Python for DATA SCIENCE badge from IBM 
-https://www.credly.com/badges/cad5130a-d7a4-43f7-84d5-bf8d026b699d/public_url
-
--Earned Data-Science_foundations from IBM-https://www.credly.com/badges/149fbf0b-91e2-48b4-88eb-23f1c3dd98f0
--[![@papun7008's Holopin board](https://holopin.io/api/user/board?user=papun7008)](https://holopin.io/@papun7008)
-<!---
-Prateek-COD/Prateek-COD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
